@@ -1,1 +1,2 @@
-quarto render hello.ipynb --to docx
+quarto render ../chap2/4.operation_ts.ipynb --to docx
+quarto render ./visualization.ipynb --to docx
